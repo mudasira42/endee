@@ -13,6 +13,8 @@ tests/build/
 data/
 data/*
 
+
+
 # VS Code directory
 .vscode/
 .vscode/*
@@ -23,3 +25,11 @@ frontend/*
 
 # DS Store
 .DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
